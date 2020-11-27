@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](Black and White Classic Music YouTube Channel Art.png)
+![header](header.png)
 <!--
 **WilliamSaya-lvl30/WilliamSaya-lvl30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
