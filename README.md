@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi There ⚽ 🎮 ⚛
 ![header](header.png)
+
+Hola bienvenidos a mi github, soy un Desarrollador Web Full Stack Junior Advanced que busca ingresar en la industria y aprender cada dia mas, encuentro la programación muy divertida y desafiante así que me esfuerzo al máximo. Encontrarás aquí React.js, Redux, Firebase Service, JavaScript, Node y algo más...
+
+### Find me on 🤜🤛
+* On [Linkedin](https://www.linkedin.com/in/williams-saya-developer/)
+
 <!--
 **WilliamSaya-lvl30/WilliamSaya-lvl30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
